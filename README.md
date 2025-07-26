@@ -23,8 +23,6 @@
   </a>
 </p>
 
----
-
 ### 🤖 Robotics | 🔧 Embedded | 🛠 Tools
 
 <p align="left">
