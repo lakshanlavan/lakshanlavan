@@ -1,14 +1,13 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <div align="left">
-    <h1>Hi 👋, I'm Lakshan</h1>
-    <h3>Robotics Enthusiast · Embedded Engineer 🤖</h3>
-    <p><em>B.E.Tech (Hons) in Instrumentation & Automation, University of Colombo</em></p>
-    <p>🌱 I’m currently working on <strong>DESIGN OF A NEW CROP FIELD LAYOUT FOR VISION-BASED ROBOT NAVIGATION IN FUTURE AGRICULTURAL ROBOTICS</strong>.</p>
-  </div>
-  <div>
-    <img src="assets/Lakshan.gif" alt="Lakshan Programming" width="420" style="border-radius: 10px;" />
-  </div>
-</div>
+<h1 align="center">Hi 👋, I'm Lakshan</h1>
+<h3 align="center">Robotics Enthusiast · Embedded Engineer 🤖</h3>
+<p align="center"><em>B.E.Tech (Hons) in Instrumentation & Automation, University of Colombo</em></p>
+
+---
+
+🌱 I’m currently working on <strong>DESIGN OF A NEW CROP FIELD LAYOUT FOR VISION-BASED ROBOT NAVIGATION IN FUTURE AGRICULTURAL ROBOTICS</strong>.
+
+<p><img align="right" src="assets/Lakshan.gif" alt="Lakshan Programming" width="420"/></p>
+
 ---
 
 <h3>🔗 Connect with me:</h3>
@@ -73,4 +72,4 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=lakshanlavan&label=Profile%20views&color=0e75b6&style=flat" alt="lakshanlavan" />
-</p>
+</p>  
