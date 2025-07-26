@@ -30,7 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="40"/>
-  <img src="https://raw.githubusercontent.com/casadi/casadi/master/logo/casadi.png" alt="CasADi" height="40"/>
+  <img src="https://raw.githubusercontent.com/casadi/casadi/master/logo/CasADI.png" alt="CasADi" height="40"/>
 </p>
 
 <h3>🔧 Embedded</h3>
