@@ -8,7 +8,7 @@
 
 ---
 
-<p><img align="right" src="assets/Lakshan.gif" alt="Lakshan Programming" width="250"/></p>
+<p><img align="right" src="assets/Lakshan.gif" alt="Lakshan Programming" width="400"/></p>
 
 ---
 
