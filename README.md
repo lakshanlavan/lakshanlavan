@@ -23,57 +23,61 @@
 
 ### 🤖 Robotics | 🔧 Embedded | 🛠 Tools
 
+<div align="center">
+
 <table>
   <tr>
-    <!-- Left Column -->
-    <td width="60%" valign="top">
-      <p>
-        <img src="logos/ros_icon.png" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40"/>
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="40"/>
-      </p>
-      <p>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="40"/>
-        <img src="logos/CasADI.png" height="40"/>
-      </p>
-      <p>
-        <img src="logos/espidf.png" height="40"/>
-        <img src="logos/arduino.jpeg" height="40"/>
-        <img src="logos/Kicad.png" height="40"/>
-        <img src="logos/freeRTOS.png" height="40"/>
-      </p>
-      <p>
-        <img src="logos/vscode.png" height="40"/>
-        <img src="logos/Git_icon.png" height="40"/>
-        <img src="logos/ubuntu.png" height="40"/>
-        <img src="logos/Gazebo.png" height="40"/>
-        <img src="logos/Rviz.png" height="40"/>
-      </p>
-    </td>
+    <td width="60%">
 
-    <!-- Right Column (GIF) -->
-    <td width="40%" align="center" valign="middle">
-      <img src="assets/Lakshan.gif" alt="Lakshan Programming" width="250"/><br/>
-      <em>Programming in Action 💻</em>
-    </td>
-  </tr>
+<p align="left">
+  <img src="logos/ros_icon.png" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="40"/>
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="40"/>
+  <img src="logos/CasADI.png" height="40"/>
+</p>
+
+<p align="left">
+  <img src="logos/espidf.png" height="40"/>
+  <img src="logos/arduino.jpeg" height="40"/>
+  <img src="logos/Kicad.png" height="40"/>
+  <img src="logos/freeRTOS.png" height="40"/>
+</p>
+
+<p align="left">
+  <img src="logos/vscode.png" height="40"/>
+  <img src="logos/Git_icon.png" height="40"/>
+  <img src="logos/ubuntu.png" height="40"/>
+  <img src="logos/Gazebo.png" height="40"/>
+  <img src="logos/Rviz.png" height="40"/>
+</p>
+
+</td>
+<td width="40%" align="center">
+  <img src="assets/Lakshan.gif" alt="Lakshan Programming" width="250"/><br/>
+  <em>Programming in Action 💻</em>
+</td>
+</tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanlavan&layout=compact&bg_color=0d1117&text_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshanlavan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" />
 </div>
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lakshanlavan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
+### 📊 GitHub Stats:
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanlavan&layout=compact&bg_color=0d1117&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=lakshanlavan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" />
+
+</div>
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=lakshanlavan&label=Profile%20views&color=0e75b6&style=flat)
