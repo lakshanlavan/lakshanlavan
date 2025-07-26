@@ -9,9 +9,15 @@
 ---
 
 ### 🔗 Connect with me:
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:lakshanlavan29@gmail.com)
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/lakshan29)
-
+<h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
+  <a href="mailto:lakshanlavan29@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/lakshan29" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 ---
 
 ### 🤖 Robotics | 🔧 Embedded | 🛠 Tools
