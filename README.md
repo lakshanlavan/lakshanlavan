@@ -8,6 +8,10 @@
 
 ---
 
+<p><img align="right" src="assets/Lakshan.gif" alt="Lakshan Programming" width="250"/></p>
+
+---
+
 ### 🔗 Connect with me:
 
 <p align="left">
@@ -22,12 +26,6 @@
 ---
 
 ### 🤖 Robotics | 🔧 Embedded | 🛠 Tools
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="60%">
 
 <p align="left">
   <img src="logos/ros_icon.png" height="40"/>
@@ -58,15 +56,6 @@
   <img src="logos/Rviz.png" height="40"/>
 </p>
 
-</td>
-<td width="40%" align="center">
-  <img src="assets/Lakshan.gif" alt="Lakshan Programming" width="250"/><br/>
-  <em>Programming in Action 💻</em>
-</td>
-</tr>
-</table>
-</div>
-
 ---
 
 ### 📊 GitHub Stats:
@@ -80,4 +69,6 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=lakshanlavan&label=Profile%20views&color=0e75b6&style=flat)
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=lakshanlavan&label=Profile%20views&color=0e75b6&style=flat" alt="lakshanlavan" />
+</p>
