@@ -18,21 +18,32 @@
 </p>
 
 ---
-<h3>🤖 Robotics</h3>
-<p align="left">
-  <img src="logos/ros_icon.png" alt="ROS 2" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" height="40"/>
-  
-</p>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="40"/>
-  <img src="logos/CasADI.png" alt="CasADi" height="40"/>
-</p>
+
+<table>
+  <tr>
+    <td width="60%">
+      <h3>🤖 Robotics</h3>
+      <p align="left">
+        <img src="logos/ros_icon.png" alt="ROS 2" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" height="40"/>
+      </p>
+      <p align="left">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="40"/>
+        <img src="logos/CasADI.png" alt="CasADi" height="40"/>
+      </p>
+    </td>
+    <td width="40%" align="right">
+      <img src="assets/Lakshan.gif" alt="Lakshan Programming" width="300"/>
+    </td>
+  </tr>
+</table>
+
+---
 
 <h3>🔧 Embedded</h3>
 <p align="left">
@@ -50,7 +61,6 @@
   <img src="logos/Gazebo.png" alt="Gazebo" height="40"/>
   <img src="logos/Rviz.png" alt="RViz" height="40"/>
 </p>
-
 
 ---
 
