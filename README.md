@@ -6,8 +6,6 @@
 
 🌱 I’m currently working on <strong>DESIGN OF A NEW CROP FIELD LAYOUT FOR VISION-BASED ROBOT NAVIGATION IN FUTURE AGRICULTURAL ROBOTICS</strong>.
 
----
-
 <p><img align="right" src="assets/Lakshan.gif" alt="Lakshan Programming" width="420"/></p>
 
 ---
