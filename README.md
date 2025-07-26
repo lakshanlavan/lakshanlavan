@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<h3>📦 Libraries I Use:</h3>
+<h3>🤖 Robotics</h3>
 
 <p align="left">
   <img src="logos/ros_icon.png" height="40"/>
@@ -40,7 +40,7 @@
   <img src="logos/CasADI.png" height="40"/>
 </p>
 
-<h3>👨‍💻🧩 Embedded</h3>
+<h3>🧩 Embedded</h3>
 
 <p align="left">
   <img src="logos/espidf.png" height="40"/>
