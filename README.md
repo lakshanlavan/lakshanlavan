@@ -18,10 +18,9 @@
 </p>
 
 ---
-
 <table>
   <tr>
-    <!-- Left Column: All 3 Sections -->
+    <!-- Left Column -->
     <td width="60%" valign="top">
 
       <h3>🤖 Robotics</h3>
@@ -58,7 +57,7 @@
 
     </td>
 
-    <!-- Right Column: Lakshan GIF -->
+    <!-- Right Column -->
     <td width="40%" align="center" valign="middle">
       <img src="assets/Lakshan.gif" alt="Lakshan Programming" width="300"/>
       <br/>
