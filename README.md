@@ -23,37 +23,37 @@
 <h3>🤖 Robotics & AI</h3>
 
 <p align="left">
-  <img src="logos/ros_icon.png" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="40"/>
+  <a href="https://www.ros.org/" target="_blank"><img src="logos/ros_icon.png" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="40"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="40"/></a>
 </p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="40"/>
-  <img src="logos/CasADI.png" height="40"/>
+  <a href="https://web.casadi.org/" target="_blank"><img src="logos/CasADI.png" height="40"/></a>
 </p>
 
 <h3>🧩 Embedded</h3>
 
 <p align="left">
-  <img src="logos/espidf.png" height="40"/>
-  <img src="logos/arduino.jpeg" height="40"/>
-  <img src="logos/Kicad.png" height="40"/>
-  <img src="logos/freeRTOS.png" height="40"/>
+  <a href="https://docs.espressif.com/projects/esp-idf/en/latest/" target="_blank"><img src="logos/espidf.png" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="logos/arduino.jpeg" height="40"/></a>
+  <a href="https://www.kicad.org/" target="_blank"><img src="logos/Kicad.png" height="40"/></a>
+  <a href="https://www.freertos.org/" target="_blank"><img src="logos/freeRTOS.png" height="40"/></a>
 </p>
 
 <h3>🛠️ Development Tools</h3>
 
 <p align="left">
-  <img src="logos/vscode.png" height="40"/>
-  <img src="logos/Git_icon.png" height="40"/>
-  <img src="logos/ubuntu.png" height="40"/>
-  <img src="logos/Gazebo.png" height="40"/>
-  <img src="logos/Rviz.png" height="40"/>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="logos/vscode.png" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="logos/Git_icon.png" height="40"/></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="logos/ubuntu.png" height="40"/></a>
+  <a href="https://gazebosim.org/" target="_blank"><img src="logos/Gazebo.png" height="40"/></a>
+  <a href="https://wiki.ros.org/rviz" target="_blank"><img src="logos/Rviz.png" height="40"/></a>
 </p>
 
 ---
