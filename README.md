@@ -16,18 +16,32 @@
 </p>
 
 ---
-
-<h3 align="left">🛠️ Languages & Tools:</h3>
+<h3>🤖 Robotics</h3>
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/va55008f56463f12ba1a0c4ec3fdc81dac4d4d331f95ef7b209d2570e7d9e879b/tensorflow/images/lockup.svg" width="80" height="24"/></a>
-  <a href="https://opencv.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/opencv/opencv-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.ros.org" target="_blank"><img src="https://raw.githubusercontent.com/lakshanlavan/lakshanlavan/main/logos/ros_icon.png" width="80" height="24"/></a>
-  <a href="https://www.arduino.cc" target="_blank"><img src="https://raw.githubusercontent.com/lakshanlavan/lakshanlavan/main/logos/arduino.svg" width="40" height="40"/></a>
-  <a href="https://www.espressif.com/en/products/sdks/esp-idf" target="_blank"><img src="https://raw.githubusercontent.com/lakshanlavan/lakshanlavan/main/logos/espidf.svg" width="40" height="40"/></a>
-  <a href="https://www.kicad.org" target="_blank"><img src="https://raw.githubusercontent.com/lakshanlavan/lakshanlavan/main/logos/kicad.svg" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/></a>
+  <img src="logos/ros_icon.png" alt="ROS 2" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" height="40"/>
 </p>
+
+<h3>🔧 Embedded</h3>
+<p align="left">
+  <img src="logos/espidf.png" alt="ESP-IDF" height="40"/>
+  <img src="logos/arduino.jpeg" alt="Arduino" height="40"/>
+  <img src="logos/Kicad.png" alt="KiCad" height="40"/>
+  <img src="logos/freeRTOS.png" alt="FreeRTOS" height="40"/>
+</p>
+
+<h3>🛠 Tools</h3>
+<p align="left">
+  <img src="logos/vscode.png" alt="VS Code" height="40"/>
+  <img src="logos/Git_icon.png" alt="Git" height="40"/>
+  <img src="logos/ubuntu.png" alt="Ubuntu" height="40"/>
+  <img src="logos/Gazebo.png" alt="Gazebo" height="40"/>
+  <img src="logos/Rviz.png" alt="RViz" height="40"/>
+</p>
+
 
 ---
 
