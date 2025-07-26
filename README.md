@@ -8,7 +8,7 @@
 
 ---
 
-<p><img align="right" src="assets/Lakshan.gif" alt="Lakshan Programming" width="400"/></p>
+<p><img align="right" src="assets/Lakshan.gif" alt="Lakshan Programming" width="420"/></p>
 
 ---
 
@@ -23,8 +23,6 @@
   </a>
 </p>
 
-### 🤖 Robotics | 🔧 Embedded | 🛠 Tools
-
 <p align="left">
   <img src="logos/ros_icon.png" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
@@ -38,14 +36,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="40"/>
   <img src="logos/CasADI.png" height="40"/>
 </p>
-
+### 👨‍💻🧩 Embedded
 <p align="left">
   <img src="logos/espidf.png" height="40"/>
   <img src="logos/arduino.jpeg" height="40"/>
   <img src="logos/Kicad.png" height="40"/>
   <img src="logos/freeRTOS.png" height="40"/>
 </p>
-
+### 🛠 Tools
 <p align="left">
   <img src="logos/vscode.png" height="40"/>
   <img src="logos/Git_icon.png" height="40"/>
