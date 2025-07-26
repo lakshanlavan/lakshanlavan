@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lakshan Lavan</h1>
+<h1 align="center">Hi 👋, I'm Lakshan </h1>
 <h3 align="center">Robotics Enthusiast · Embedded Engineer 🤖</h3>
 
 <p align="center"><em>B.E.Tech (Hons) in Instrumentation & Automation, University of Colombo</em></p>
 
-- 🌱 I’m currently exploring <strong>ROS 2</strong>, AI-driven waypoint tracking, and real-time control for field robots.
+- 🌱 I’m currently working on <strong>DESIGN OF A NEW CROP FIELD LAYOUT FOR VISION-BASED ROBOT NAVIGATION IN FUTURE AGRICULTURAL ROBOTICS</strong>.
 
 ---
 
