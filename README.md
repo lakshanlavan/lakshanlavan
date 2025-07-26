@@ -21,7 +21,8 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <!-- Left Side: Robotics, Embedded, Tools -->
+    <td width="60%" valign="top">
       <h3>🤖 Robotics</h3>
       <p align="left">
         <img src="logos/ros_icon.png" alt="ROS 2" height="40"/>
@@ -36,31 +37,32 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="40"/>
         <img src="logos/CasADI.png" alt="CasADi" height="40"/>
       </p>
+
+      <h3>🔧 Embedded</h3>
+      <p align="left">
+        <img src="logos/espidf.png" alt="ESP-IDF" height="40"/>
+        <img src="logos/arduino.jpeg" alt="Arduino" height="40"/>
+        <img src="logos/Kicad.png" alt="KiCad" height="40"/>
+        <img src="logos/freeRTOS.png" alt="FreeRTOS" height="40"/>
+      </p>
+
+      <h3>🛠 Tools</h3>
+      <p align="left">
+        <img src="logos/vscode.png" alt="VS Code" height="40"/>
+        <img src="logos/Git_icon.png" alt="Git" height="40"/>
+        <img src="logos/ubuntu.png" alt="Ubuntu" height="40"/>
+        <img src="logos/Gazebo.png" alt="Gazebo" height="40"/>
+        <img src="logos/Rviz.png" alt="RViz" height="40"/>
+      </p>
     </td>
-    <td width="40%" align="right">
+
+    <!-- Right Side: Lakshan GIF -->
+    <td width="40%" align="center" valign="middle">
       <img src="assets/Lakshan.gif" alt="Lakshan Programming" width="300"/>
+      <p><em>Me in Action 👨‍💻</em></p>
     </td>
   </tr>
 </table>
-
----
-
-<h3>🔧 Embedded</h3>
-<p align="left">
-  <img src="logos/espidf.png" alt="ESP-IDF" height="40"/>
-  <img src="logos/arduino.jpeg" alt="Arduino" height="40"/>
-  <img src="logos/Kicad.png" alt="KiCad" height="40"/>
-  <img src="logos/freeRTOS.png" alt="FreeRTOS" height="40"/>
-</p>
-
-<h3>🛠 Tools</h3>
-<p align="left">
-  <img src="logos/vscode.png" alt="VS Code" height="40"/>
-  <img src="logos/Git_icon.png" alt="Git" height="40"/>
-  <img src="logos/ubuntu.png" alt="Ubuntu" height="40"/>
-  <img src="logos/Gazebo.png" alt="Gazebo" height="40"/>
-  <img src="logos/Rviz.png" alt="RViz" height="40"/>
-</p>
 
 ---
 
