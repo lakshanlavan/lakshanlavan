@@ -9,7 +9,7 @@
 ---
 
 ### 🔗 Connect with me:
-<h3 align="left">🔗 Connect with me:</h3>
+
 <p align="left">
   <a href="mailto:lakshanlavan29@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
@@ -18,6 +18,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
 ---
 
 ### 🤖 Robotics | 🔧 Embedded | 🛠 Tools
