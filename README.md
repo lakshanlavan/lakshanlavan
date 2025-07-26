@@ -12,7 +12,7 @@
 
 ---
 
-### 🔗 Connect with me:
+<h3>🔗 Connect with me:</h3>
 
 <p align="left">
   <a href="mailto:lakshanlavan29@gmail.com" target="_blank">
@@ -23,6 +23,8 @@
   </a>
 </p>
 
+<h3>📦 Libraries I Use:</h3>
+
 <p align="left">
   <img src="logos/ros_icon.png" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
@@ -30,20 +32,25 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="40"/>
 </p>
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="40"/>
   <img src="logos/CasADI.png" height="40"/>
 </p>
-### 👨‍💻🧩 Embedded
+
+<h3>👨‍💻🧩 Embedded</h3>
+
 <p align="left">
   <img src="logos/espidf.png" height="40"/>
   <img src="logos/arduino.jpeg" height="40"/>
   <img src="logos/Kicad.png" height="40"/>
   <img src="logos/freeRTOS.png" height="40"/>
 </p>
-### 🛠 Tools
+
+<h3>🛠 Tools</h3>
+
 <p align="left">
   <img src="logos/vscode.png" height="40"/>
   <img src="logos/Git_icon.png" height="40"/>
