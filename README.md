@@ -18,51 +18,39 @@
 </p>
 
 ---
+<h3>🤖 Robotics</h3>
+<p align="left">
+  <img src="logos/ros_icon.png" alt="ROS 2" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" height="40"/>
+  
+</p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="40"/>
+  <img src="logos/CasADI.png" alt="CasADi" height="40"/>
+</p>
 
-<table>
-  <tr>
-    <!-- Left Side: Robotics, Embedded, Tools -->
-    <td width="60%" valign="top">
-      <h3>🤖 Robotics</h3>
-      <p align="left">
-        <img src="logos/ros_icon.png" alt="ROS 2" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" height="40"/>
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="40"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" height="40"/>
-      </p>
-      <p align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="40"/>
-        <img src="logos/CasADI.png" alt="CasADi" height="40"/>
-      </p>
+<h3>🔧 Embedded</h3>
+<p align="left">
+  <img src="logos/espidf.png" alt="ESP-IDF" height="40"/>
+  <img src="logos/arduino.jpeg" alt="Arduino" height="40"/>
+  <img src="logos/Kicad.png" alt="KiCad" height="40"/>
+  <img src="logos/freeRTOS.png" alt="FreeRTOS" height="40"/>
+</p>
 
-      <h3>🔧 Embedded</h3>
-      <p align="left">
-        <img src="logos/espidf.png" alt="ESP-IDF" height="40"/>
-        <img src="logos/arduino.jpeg" alt="Arduino" height="40"/>
-        <img src="logos/Kicad.png" alt="KiCad" height="40"/>
-        <img src="logos/freeRTOS.png" alt="FreeRTOS" height="40"/>
-      </p>
+<h3>🛠 Tools</h3>
+<p align="left">
+  <img src="logos/vscode.png" alt="VS Code" height="40"/>
+  <img src="logos/Git_icon.png" alt="Git" height="40"/>
+  <img src="logos/ubuntu.png" alt="Ubuntu" height="40"/>
+  <img src="logos/Gazebo.png" alt="Gazebo" height="40"/>
+  <img src="logos/Rviz.png" alt="RViz" height="40"/>
+</p>
 
-      <h3>🛠 Tools</h3>
-      <p align="left">
-        <img src="logos/vscode.png" alt="VS Code" height="40"/>
-        <img src="logos/Git_icon.png" alt="Git" height="40"/>
-        <img src="logos/ubuntu.png" alt="Ubuntu" height="40"/>
-        <img src="logos/Gazebo.png" alt="Gazebo" height="40"/>
-        <img src="logos/Rviz.png" alt="RViz" height="40"/>
-      </p>
-    </td>
-
-    <!-- Right Side: Lakshan GIF -->
-    <td width="40%" align="center" valign="middle">
-      <img src="assets/Lakshan.gif" alt="Lakshan Programming" width="300"/>
-      <p><em>Me in Action 👨‍💻</em></p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -78,4 +66,18 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lakshanlavan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</p>   this code add and full code generate <table>
+  <tr>
+    <td width="60%">
+      <h3>🤖 Robotics</h3>
+      <p align="left">
+        <img src="logos/ros_icon.png" alt="ROS 2" height="40"/>
+        <img src="..." alt="Python" height="40"/>
+        <!-- Other logos -->
+      </p>
+    </td>
+    <td width="40%" align="right">
+      <img src="assets/Lakshan.gif" alt="Lakshan Programming" width="300"/>
+    </td>
+  </tr>
+</table
