@@ -4,7 +4,7 @@
 <p align="center"><em>B.E.Tech (Hons) in Instrumentation & Automation, University of Colombo</em></p>
 
 - 🌱 I’m currently exploring <strong>ROS 2</strong>, AI-driven waypoint tracking, and real-time control for field robots.
-- 📫 How to reach me: <a href="mailto:lakshanlavan29@gmail.com">lakshan@ieee.org</a>
+- 📫 How to reach me: <a href="mailto:lakshanlavan29@gmail.com" title="Send to my Gmail">lakshan@ieee.org</a>
 
 ---
 
