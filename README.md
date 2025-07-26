@@ -1,26 +1,28 @@
-<h1 align="center">Hi 👋, I'm Lakshan</h1>
+<h1 align="center">Hi 👋, I'm Lakshan Lavan</h1>
 <h3 align="center">Robotics Enthusiast · Embedded Engineer 🤖</h3>
 
 <p align="center"><em>B.E.Tech (Hons) in Instrumentation & Automation, University of Colombo</em></p>
 
-- 🌱 I’m currently working on <strong>DESIGN OF A NEW CROP FIELD LAYOUT FOR VISION-BASED ROBOT NAVIGATION IN FUTURE AGRICULTURAL ROBOTICS</strong>.
+- 🌱 I’m currently working on <strong>DESIGN OF A NEW CROP FIELD LAYOUT FOR VISION-BASED ROBOT NAVIGATION IN FUTURE AGRICULTURAL ROBOTICS</strong>
+
+<br>
 
 ---
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="mailto:lakshanlavan29@gmail.com" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/lakshan29" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+  <a href="mailto:lakshanlavan29@gmail.com" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/lakshan29" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
+
 <table>
   <tr>
-    <!-- Left Column -->
+    <!-- Left Column: Logos -->
     <td width="60%" valign="top">
 
       <h3>🤖 Robotics</h3>
@@ -57,10 +59,9 @@
 
     </td>
 
-    <!-- Right Column -->
+    <!-- Right Column: GIF -->
     <td width="40%" align="center" valign="middle">
-      <img src="assets/Lakshan.gif" alt="Lakshan Programming" width="300"/>
-      <br/>
+      <img src="assets/Lakshan.gif" alt="Lakshan Programming" width="280"/><br/>
       <em>Programming in Action 💻</em>
     </td>
   </tr>
@@ -69,12 +70,16 @@
 ---
 
 <h3>📊 GitHub Stats:</h3>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshanlavan&layout=compact&bg_color=0d1117&text_color=ffffff" />
 </p>
+
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=lakshanlavan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" />
 </p>
+
+<br><br><br><br><br>
 
 ---
 
