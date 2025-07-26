@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<h3>🤖 Robotics</h3>
+<h3>🤖 Robotics & AI</h3>
 
 <p align="left">
   <img src="logos/ros_icon.png" height="40"/>
@@ -49,7 +49,7 @@
   <img src="logos/freeRTOS.png" height="40"/>
 </p>
 
-<h3>🛠 Tools</h3>
+<h3>🛠️ Development Tools</h3>
 
 <p align="left">
   <img src="logos/vscode.png" height="40"/>
