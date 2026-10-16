@@ -1,0 +1,56 @@
+# Regenerates the language card and contribution snake shown in README.md
+# and publishes them to the `output` branch.
+#
+# Only public repos are counted by default. To include private repos too,
+# add a repository secret named LANGS_TOKEN: a fine-grained personal access
+# token with read-only "Contents" + "Metadata" access to all your repos.
+name: Update profile assets
+
+on:
+  schedule:
+    - cron: "17 3 * * *" # daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-assets.yml"
+      - ".github/scripts/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate language card
+        env:
+          GH_TOKEN: ${{ secrets.LANGS_TOKEN || github.token }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/languages.py dist
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          cd dist
+          git init -q -b output
+          git add .
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "Update profile assets"
+          git push -q -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
