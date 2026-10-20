@@ -1,8 +1,8 @@
 <div align="center">
 
-<p>
-  <a href="https://lakshanlavan.github.io/"><img src="assets/header.svg" width="100%" alt="Lakshan L. · Robotics Engineer · Embedded Systems · Edge AI & Computer Vision · Agri-Robotics Researcher" /></a>
-</p>
+# Hi, I'm Lakshan L.
+
+**Robotics Engineer · Embedded Systems · Edge AI & Computer Vision · Agri-Robotics Researcher**
 
 <p>
   <a href="https://lakshanlavan.github.io/"><img src="https://img.shields.io/badge/Portfolio-lakshanlavan.github.io-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -10,9 +10,22 @@
   <a href="mailto:lakshanlavan29@gmail.com"><img src="https://img.shields.io/badge/Email-lakshanlavan29@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p>
-  <a href="https://lakshanlavan.github.io/"><img src="assets/hero-reel.gif" width="720" alt="Showreel: field robot navigation, drone crop survey, real-time detection, hardware and dashboards" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://lakshanlavan.github.io/"><img src="gif/nav-spiral.gif" width="250" alt="Field robot following a Crop Spirals layout" /></a><br>
+      <sub><b>Crop Spirals</b> · robot field navigation</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://lakshanlavan.github.io/"><img src="gif/field-survey.gif" width="250" alt="Drone surveying a paddy field" /></a><br>
+      <sub><b>Agrarian</b> · drone crop survey</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://lakshanlavan.github.io/"><img src="gif/waste-detect.gif" width="250" alt="CCTV detecting illegal waste dumping" /></a><br>
+      <sub><b>CleanCity</b> · edge CCTV detection</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -20,52 +33,13 @@
 
 ### 👨‍💻 About me
 
-- 🌱 Researching **vision-based navigation for agricultural field robots**, including a new crop field layout (*Crop Spirals*) designed for future agri-robotics
+- 🌱 Researching **vision-based navigation for agricultural field robots**, including a new crop field layout (*Crop Spirals*, under review at *Robotics and Autonomous Systems*) designed for future agri-robotics
 - 👁️ Building **real-time computer vision** that runs at the edge: CCTV illegal-dumping detection, face-recognition access control
 - 🔌 Designing **embedded hardware and firmware**: ESP32 / ESP-IDF, FreeRTOS, custom PCBs in KiCad
 - 🎓 B.E.Tech (Hons) in Instrumentation & Automation, **University of Colombo**
 - 🌐 Full case studies and research write-ups at **[lakshanlavan.github.io](https://lakshanlavan.github.io/)**
 
 <br>
-
-### 🚀 Featured work
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://lakshanlavan.github.io/"><img src="work/crop-spirals.jpg" alt="Crop Spirals field layout" width="260"/></a><br>
-      <b>Crop Spirals</b><br>
-      <sub>Robot-centric spiral field layout for autonomous agricultural navigation.<br><i>Under review, Robotics and Autonomous Systems (Elsevier).</i></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://lakshanlavan.github.io/"><img src="work/cleancity.jpg" alt="CleanCity illegal dumping detection" width="260"/></a><br>
-      <b>CleanCity</b><br>
-      <sub>Edge-to-cloud CCTV vision that detects illegal waste dumping in real time, with tracking and VLM confirmation.</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/lakshanlavan/facegate"><img src="work/face-access.jpg" alt="Face recognition gym access control" width="260"/></a><br>
-      <b><a href="https://github.com/lakshanlavan/facegate">FaceGate</a></b><br>
-      <sub>On-device access control at a gym door: recognition plus membership check driving an ESP32 relay.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://lakshanlavan.github.io/"><img src="work/agrarian.jpg" alt="Agrarian drone crop health monitoring" width="260"/></a><br>
-      <b>Agrarian v1.0</b><br>
-      <sub>Low-cost autonomous drone and RGB imaging for paddy crop-health monitoring.</sub>
-    </td>
-    <td align="center">
-      <a href="https://lakshanlavan.github.io/"><img src="work/exosuit.jpg" alt="Passive shoulder exosuit" width="260"/></a><br>
-      <b>Passive Shoulder Exosuit</b><br>
-      <sub>Fully passive shoulder assistance for overhead work: no motors, no batteries, no control electronics.</sub>
-    </td>
-    <td align="center">
-      <a href="https://lakshanlavan.github.io/"><img src="work/server-room.jpg" alt="Server room UPS power monitoring" width="260"/></a><br>
-      <b>Server Room UPS Monitoring</b><br>
-      <sub>Embedded data acquisition for UPS power, temperature and humidity across a bank's data centre.</sub>
-    </td>
-  </tr>
-</table>
 
 <details>
 <summary><b>📂 Browse all public repositories</b></summary>
