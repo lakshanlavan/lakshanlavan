@@ -5,9 +5,9 @@
 **Robotics Engineer · Embedded Systems · Edge AI & Computer Vision · Agri-Robotics Researcher**
 
 <p>
-  <a href="https://lakshanlavan.github.io/"><img src="https://img.shields.io/badge/Portfolio-lakshanlavan.github.io-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/lakshan29"><img src="https://img.shields.io/badge/LinkedIn-lakshan29-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:lakshanlavan29@gmail.com"><img src="https://img.shields.io/badge/Email-lakshanlavan29@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://lakshanlavan.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshanlavan/lakshanlavan/main/assets/connect/portfolio-dark.svg" /><img src="https://raw.githubusercontent.com/lakshanlavan/lakshanlavan/main/assets/connect/portfolio-light.svg" height="58" alt="Portfolio: lakshanlavan.github.io" /></picture></a>
+  <a href="https://www.linkedin.com/in/lakshan29"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshanlavan/lakshanlavan/main/assets/connect/linkedin-dark.svg" /><img src="https://raw.githubusercontent.com/lakshanlavan/lakshanlavan/main/assets/connect/linkedin-light.svg" height="58" alt="LinkedIn: in/lakshan29" /></picture></a>
+  <a href="mailto:lakshan.l.robotics@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshanlavan/lakshanlavan/main/assets/connect/email-dark.svg" /><img src="https://raw.githubusercontent.com/lakshanlavan/lakshanlavan/main/assets/connect/email-light.svg" height="58" alt="Email: lakshan.l.robotics@gmail.com" /></picture></a>
 </p>
 
 <table>
@@ -122,7 +122,7 @@
 
 <div align="center">
 
-**📫 Let's connect:** [Portfolio](https://lakshanlavan.github.io/) · [LinkedIn](https://www.linkedin.com/in/lakshan29) · [lakshanlavan29@gmail.com](mailto:lakshanlavan29@gmail.com)
+**📫 Let's connect:** [Portfolio](https://lakshanlavan.github.io/) · [LinkedIn](https://www.linkedin.com/in/lakshan29) · [lakshan.l.robotics@gmail.com](mailto:lakshan.l.robotics@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=lakshanlavan&label=Profile%20views&color=10b981&style=flat-square" alt="Profile views" />
 
