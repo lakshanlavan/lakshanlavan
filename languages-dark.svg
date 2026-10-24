@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="262" viewBox="0 0 800 262" role="img" aria-labelledby="title">
+<title id="title">Languages across 11 GitHub repositories: Python 30.9%, Jupyter Notebook 14.4%, MATLAB 10.9%, TeX 10.2%, JavaScript 9.8%, Shell 7.2%, HTML 6.0%, CSS 5.3%, C++ 3.9%, CMake 0.9%, LabVIEW 0.7%</title>
+<style>
+text { font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+.seg { transform-box: fill-box; transform-origin: left center; animation: grow .9s cubic-bezier(.2,.8,.2,1) both; }
+.item { animation: fade .6s ease-out both; }
+@keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+@keyframes fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .seg, .item { animation: none; } }
+</style>
+<rect x="0.5" y="0.5" width="799" height="261" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="44" font-size="18" font-weight="600" fill="#e6edf3">Languages I code in</text>
+<text x="772" y="44" font-size="13" fill="#9198a1" text-anchor="end">11 languages · 11 repositories</text>
+<clipPath id="bar"><rect x="28" y="66" width="744" height="12" rx="6"/></clipPath>
+<rect x="28" y="66" width="744" height="12" rx="6" fill="#21262d"/>
+<g clip-path="url(#bar)">
+<rect class="seg" style="animation-delay:0.00s" x="28.00" y="66" width="227.79" height="12" fill="#3572A5"/>
+<rect class="seg" style="animation-delay:0.05s" x="257.79" y="66" width="104.80" height="12" fill="#DA5B0B"/>
+<rect class="seg" style="animation-delay:0.10s" x="364.59" y="66" width="79.11" height="12" fill="#e16737"/>
+<rect class="seg" style="animation-delay:0.15s" x="445.70" y="66" width="73.64" height="12" fill="#3D6117"/>
+<rect class="seg" style="animation-delay:0.20s" x="521.34" y="66" width="70.66" height="12" fill="#f1e05a"/>
+<rect class="seg" style="animation-delay:0.25s" x="594.00" y="66" width="51.64" height="12" fill="#89e051"/>
+<rect class="seg" style="animation-delay:0.30s" x="647.64" y="66" width="42.37" height="12" fill="#e34c26"/>
+<rect class="seg" style="animation-delay:0.35s" x="692.01" y="66" width="37.16" height="12" fill="#663399"/>
+<rect class="seg" style="animation-delay:0.40s" x="731.17" y="66" width="27.22" height="12" fill="#f34b7d"/>
+<rect class="seg" style="animation-delay:0.45s" x="760.39" y="66" width="4.39" height="12" fill="#DA3434"/>
+<rect class="seg" style="animation-delay:0.50s" x="766.78" y="66" width="5.22" height="12" fill="#fede06"/>
+</g>
+<g class="item" style="animation-delay:0.30s"><circle cx="34.0" cy="107" r="5" fill="#3572A5"/><text x="46.0" y="112" font-size="14" fill="#e6edf3">Python</text><text x="256.0" y="112" font-size="13" fill="#9198a1" text-anchor="end">30.9%</text></g>
+<g class="item" style="animation-delay:0.34s"><circle cx="282.0" cy="107" r="5" fill="#DA5B0B"/><text x="294.0" y="112" font-size="14" fill="#e6edf3">Jupyter Notebook</text><text x="504.0" y="112" font-size="13" fill="#9198a1" text-anchor="end">14.4%</text></g>
+<g class="item" style="animation-delay:0.38s"><circle cx="530.0" cy="107" r="5" fill="#e16737"/><text x="542.0" y="112" font-size="14" fill="#e6edf3">MATLAB</text><text x="752.0" y="112" font-size="13" fill="#9198a1" text-anchor="end">10.9%</text></g>
+<g class="item" style="animation-delay:0.42s"><circle cx="34.0" cy="137" r="5" fill="#3D6117"/><text x="46.0" y="142" font-size="14" fill="#e6edf3">TeX</text><text x="256.0" y="142" font-size="13" fill="#9198a1" text-anchor="end">10.2%</text></g>
+<g class="item" style="animation-delay:0.46s"><circle cx="282.0" cy="137" r="5" fill="#f1e05a"/><text x="294.0" y="142" font-size="14" fill="#e6edf3">JavaScript</text><text x="504.0" y="142" font-size="13" fill="#9198a1" text-anchor="end">9.8%</text></g>
+<g class="item" style="animation-delay:0.50s"><circle cx="530.0" cy="137" r="5" fill="#89e051"/><text x="542.0" y="142" font-size="14" fill="#e6edf3">Shell</text><text x="752.0" y="142" font-size="13" fill="#9198a1" text-anchor="end">7.2%</text></g>
+<g class="item" style="animation-delay:0.54s"><circle cx="34.0" cy="167" r="5" fill="#e34c26"/><text x="46.0" y="172" font-size="14" fill="#e6edf3">HTML</text><text x="256.0" y="172" font-size="13" fill="#9198a1" text-anchor="end">6.0%</text></g>
+<g class="item" style="animation-delay:0.58s"><circle cx="282.0" cy="167" r="5" fill="#663399"/><text x="294.0" y="172" font-size="14" fill="#e6edf3">CSS</text><text x="504.0" y="172" font-size="13" fill="#9198a1" text-anchor="end">5.3%</text></g>
+<g class="item" style="animation-delay:0.62s"><circle cx="530.0" cy="167" r="5" fill="#f34b7d"/><text x="542.0" y="172" font-size="14" fill="#e6edf3">C++</text><text x="752.0" y="172" font-size="13" fill="#9198a1" text-anchor="end">3.9%</text></g>
+<g class="item" style="animation-delay:0.66s"><circle cx="34.0" cy="197" r="5" fill="#DA3434"/><text x="46.0" y="202" font-size="14" fill="#e6edf3">CMake</text><text x="256.0" y="202" font-size="13" fill="#9198a1" text-anchor="end">0.9%</text></g>
+<g class="item" style="animation-delay:0.70s"><circle cx="282.0" cy="197" r="5" fill="#fede06"/><text x="294.0" y="202" font-size="14" fill="#e6edf3">LabVIEW</text><text x="504.0" y="202" font-size="13" fill="#9198a1" text-anchor="end">0.7%</text></g>
+<text x="28" y="244" font-size="11" fill="#9198a1">Share weighted by code size and number of repos · auto-updated 2026-10-24</text>
+</svg>
